@@ -15,7 +15,7 @@ Flask, REST API
 SQLite
 
 ## Мои проекты:
-телеграм бот - t.me/defolpwin_bot
+
 
 
 *Контакты: [Telegram](https://t.me/username) | [LinkedIn](https://linkedin.com/in/username)*
